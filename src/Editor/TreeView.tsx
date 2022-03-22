@@ -1,5 +1,4 @@
 import { useCallback, useState } from 'react';
-import 'react-complex-tree/lib/style.css';
 import styled from 'styled-components';
 import { TreeNodeView, useAppend, useTreeView } from './model';
 import { nanoid } from 'nanoid';

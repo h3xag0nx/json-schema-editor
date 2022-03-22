@@ -12,8 +12,6 @@
     "@types/react-dom": "^17.0.9",
     "nanoid": "^3.3.1",
     "react": "^17.0.2",
-    "react-complex-tree": "^1.1.4",
-    "react-dnd": "^15.1.1",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
     "sass": "^1.49.9",
